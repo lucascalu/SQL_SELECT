@@ -1,4 +1,4 @@
-# SQL ATV 01
+# SQL SELECT ATV 01
 <br>
 
 <H1>
@@ -42,7 +42,7 @@ Critérios de Avaliação
 </p>
 
 <h1>
- SQL ATV 01  
+ SQL SELECT ATV 01  
 </h1>
 <br>
 
