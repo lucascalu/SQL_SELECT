@@ -1,4 +1,4 @@
-# Sintaxy SQL ATV 01
+# SQL ATV 01
 <br>
 
 <H1>
@@ -42,7 +42,7 @@ Critérios de Avaliação
 </p>
 
 <h1>
- SQL Syntax ATV 01  
+ SQL ATV 01  
 </h1>
 <br>
 
