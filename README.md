@@ -8,7 +8,8 @@
 <br>
 
 <p>
- Cada aluno deverá criar uma base de dados com nome AlunosSala com uma tabela chamada alunos, com colunas id (AUTO_INCREMENT) , nome (VARCHAR) , sobrenome (VARCHAR) , idade (VARCHAR) e alimenta-la com as informações listadas através de um sistema SGBD.
+ Cada aluno deverá criar uma base de dados com nome CARROS com uma tabela chamada BMW, com colunas id (AUTO_INCREMENT) , nome (VARCHAR) , velocidaddeMax (VARCHAR) , valor (VARCHAR) e alimenta-la com as 10 informações pesquisadas através de um sistema SGBD.
+  APÓS ISSO DEVERÁ AINDA EXISTIR UMA SELEÇÃO CAPAZ DE LISTAR TODOS OS PROJETOS
 Cada aluno deverá posta o código fonte na plataforma Github e inserir o respectivo link na plataforma classrom 
   
 </p>
@@ -52,7 +53,8 @@ Critérios de Avaliação
 <br>
 
 <p>
- Each student must create a database named StudentsRoom with a table called students, with columns id (AUTO_INCREMENT), name (VARCHAR), surname (VARCHAR), age (VARCHAR) and feed it with the information listed through a system DBMS.
+Each student must create a database called CARROS with a table called BMW, with columns id (AUTO_INCREMENT), name (VARCHAR), velocityMax (VARCHAR), value (VARCHAR) and feed it with the 10 information searched through a DBMS system.
+  AFTER THIS THERE SHOULD STILL BE A SELECTION CAPABLE OF LISTING ALL PROJECTS
 Each student must post the source code on the Github platform and insert the respective link on the classrom platform
   
 </p>
